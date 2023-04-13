@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>3445273484-sicq0b4mhfkcb1gpa9ekv5rc13cir5vj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.3445273484-sicq0b4mhfkcb1gpa9ekv5rc13cir5vj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>3445273484-b5ar2j8mn824k8ju2k9019k6mt5gftog.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkVlPIV_QC8tDZ4LQjmPYtqz8hZCLB5M0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>3445273484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.tembeakenya</string>
+	<key>PROJECT_ID</key>
+	<string>tembeakenya254</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tembeakenya254.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:3445273484:ios:653095cd2a1ae8b6a49ca9</string>
+</dict>
+</plist>

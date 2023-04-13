@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "3445273484",
+    "project_id": "tembeakenya254",
+    "storage_bucket": "tembeakenya254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3445273484:android:2d258aa30cebf20da49ca9",
+        "android_client_info": {
+          "package_name": "com.flutterflow.tembeakenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3445273484-b5ar2j8mn824k8ju2k9019k6mt5gftog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.tembeakenya",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "3445273484-71gq9gpjdiq682dilm8c1j1mfftt3922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsvbDaEH8i2iyZxOf0UITr3WjpTXF5k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3445273484-71gq9gpjdiq682dilm8c1j1mfftt3922.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3445273484-sicq0b4mhfkcb1gpa9ekv5rc13cir5vj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.tembeakenya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
